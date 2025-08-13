@@ -1,0 +1,7 @@
+comprar ladrillos : 4
+
+comprar vidrio:  3
+
+comprar cable: 1
+
+comprar cemento: 8

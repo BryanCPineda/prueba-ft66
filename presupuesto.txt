@@ -5,3 +5,9 @@ comprar vidrio:  3
 comprar cable: 1
 
 comprar cemento: 8
+
+comprar tornillos: 3
+
+comprar puertas: 10
+
+comprar pintura: 5
